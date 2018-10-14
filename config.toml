@@ -1,5 +1,5 @@
 theme = "landing-page-hugo"
-baseurl = "https://smallbusinessanalytics.github.io/"
+baseurl = "https://smallbusinessanalytics.github.io"
 languageCode = "en-us"
 title = "Small Business Analytics"
 canonifyUrls = "true"
