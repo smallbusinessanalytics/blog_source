@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WidgetCo Inc</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on WidgetCo Inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Override the default intro and contact backgrounds by putting images in these files:
+img/intro-bg.jpg img/contact-bg.jpg</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
+title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
