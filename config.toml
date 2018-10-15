@@ -28,4 +28,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #[[params.social]]
 #    title = "linkedin"
 #    icon = "linkedin"
-#    url = "http://linkedin.com/in/yourusername"
+#    url = "http://linkedin.com/in/yourusername" 
