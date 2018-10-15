@@ -9,6 +9,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     description = "a small company specializing in analytics for other small companies"
     custom_css = ["css/local.css"]
+    favicon = "/img/favicon.png"
 
 [[params.social]]
     title = "email"
